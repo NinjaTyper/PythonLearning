@@ -12,8 +12,8 @@ Let's learn Python together
 - Help other friends to learn!
 
 ## Goals
-- In 6 months, you will be to write automated tasks on your computer to do your "job" for you!
-- In a year, you will be able to write simple AI program to recognize your pet vs you!
+- In 6 months, you will be to write automated tasks on your computer to do your "work" for you!
+- In a year, you will be able to write simple AI program that uses your webcam to recognize your pet vs you!
 
 ## Lesson 1
 In the first Lesson, we are going to be focusing on setting up the python environment, and learn about the basic input and output.
