@@ -31,9 +31,23 @@ In the first Lesson, we are going to be focusing on setting up the python enviro
 In Lesson 2, we will learn how to use the magic of python to solve some of the number problems that would have been difficult without the help of computers.
 eg. What is the next prime number after 1 million/1,000,000
 
+Suggested material:
+- https://www.py4e.com/lessons/loops
+- https://www.py4e.com/lessons/functions
+
 ### Required Exercise for Lesson 2
+1. The program will ask the user to enter a number, then it will print out all the number between 0 and that number.
+2. The program will ask the user to enter a number, then it will print out "even" or "odd" by checking that number.
+3. The program will ask the user to enter a number, then it will print out all the even number between 0 and that number.
+4. The program will ask the user to enter a number, then it will check to see if that is a prime number or not.
+5. The program will ask the user to enter a number, then it will print out all the prime number between 0 and that number.
 
 ### Bonus Exercise (optional)
+1. Say you have a secrete number (between 0 and 1000) in your head or written down somewhere. Design a program to ask a series of question to find out what that number is. The user can only answer "yes" or "no" to the questions. Example questions:
+  - "Is that number larger than 900?"
+  - "Is it a 2-digit number?"
+  - "Is the last digit number even?"
+  - "Is the number 125?"
 
 ## Lesson 3
 In Lesson 3, we will learn about how strings work, how the text in coding works. You will learn about how to do string manipulation and have fun with it
