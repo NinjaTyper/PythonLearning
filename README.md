@@ -34,6 +34,8 @@ eg. What is the next prime number after 1 million/1,000,000
 Suggested material:
 - https://www.py4e.com/lessons/loops
 - https://www.py4e.com/lessons/functions
+- https://www.py4e.com/lessons/lists
+- https://www.w3schools.com/python/python_arrays.asp
 
 ### Required Exercise for Lesson 2
 1. The program will ask the user to enter a number, then it will print out all the number between 0 and that number.
@@ -41,6 +43,7 @@ Suggested material:
 3. The program will ask the user to enter a number, then it will print out all the even number between 0 and that number.
 4. The program will ask the user to enter a number, then it will check to see if that is a prime number or not.
 5. The program will ask the user to enter a number, then it will print out all the prime number between 0 and that number.
+6. Design a useful calculator! It's entirely up to you to build this calculator as you see fit. It could be as simple as adding 2 number, or it could be more complex to let the user choose to do normal operation (+-*/) or do some some fancy operation like "2 to the power of 3" or "5 factorial". The sky is the limit!
 
 ### Bonus Exercise (optional)
 1. Say you have a secrete number (between 0 and 1000) in your head or written down somewhere. Design a program to ask a series of question to find out what that number is. The user can only answer "yes" or "no" to the questions. Example questions:
