@@ -55,10 +55,19 @@ Suggested material:
 ## Lesson 3
 In Lesson 3, we will learn about how strings work, how the text in coding works. You will learn about how to do string manipulation and have fun with it
 
+Suggested material:
+  -  https://www.py4e.com/lessons/strings
+  
 ### Required Exercise for Lesson 3
 
-### Bonus Exercise (optional)
+1. Take in a string, then print out each character per line. Make sure to use 2 different of FOR loops and one using WHILE loop!
+2. Take in a string, build a simple encryption of that string
+3. Now take in a encrypted string, then decrypt that string!
+4. Build a tool to use to encrypt and decrypt text messages! Remember that user experience is important, and be creative!
 
+### Bonus Exercise (optional)
+1. Build a encryption/decryption tool that has a concept of a public key and a private key!
+  
 ## Lesson 4
 In Lesson 4, we will learn about how to store data in files, and read back and edit the files. This will help you store big projects into chunks, and each chunk will produce a data file.
 
