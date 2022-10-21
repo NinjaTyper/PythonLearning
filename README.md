@@ -60,7 +60,7 @@ Suggested material:
   
 ### Required Exercise for Lesson 3
 
-1. Take in a string, then print out each character per line. Make sure to use 2 different of FOR loops and one using WHILE loop!
+1. Take in a string, then print out each character per line for each loop. Make sure to use 2 different FOR loops and one using WHILE loop! so yes, print out the whole thing 3 times!
 2. Experiment with ord(character) and chr(number)
 2. Take in a string, build a simple encryption of that string
 3. Now take in a encrypted string, then decrypt that string!
