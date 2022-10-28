@@ -62,9 +62,9 @@ Suggested material:
 
 1. Take in a string, then print out each character per line for each loop. Make sure to use 2 different FOR loops and one using WHILE loop! so yes, print out the whole thing 3 times!
 2. Experiment with ord(character) and chr(number)
-2. Take in a string, build a simple encryption of that string
-3. Now take in a encrypted string, then decrypt that string!
-4. Build a tool to use to encrypt and decrypt text messages! Remember that user experience is important, and be creative!
+3. Take in a string, build a simple encryption of that string
+4. Now take in a encrypted string, then decrypt that string!
+5. Build a tool to use to encrypt and decrypt text messages! Remember that user experience is important, and be creative!
 
 ### Bonus Exercise (optional)
 1. Build a encryption/decryption tool that has a concept of a public key and a private key!
@@ -74,7 +74,14 @@ In Lesson 4, we will learn about how to store data in files, and read back and e
 
 ### Required Exercise for Lesson 4
 
+1. Make a yourname.txt that has your name in it, then read in that file and print to the screen.
+2. Write down every number from 1 to 100 to a file number.txt
+3. Write a program that read in random.txt and then add a random number to that random.txt file, without losing existing data.
+4. Build a shopping experience! You can specify the list of items in a file (item name with price) , then read in the file data, then provide a shopping experience to the users. 
+
 ### Bonus Exercise (optional)
+
+
 
 ## Lesson 5
 In Lesson 5, we will learn how to get data from the internet (social media, webpages, etc.)
