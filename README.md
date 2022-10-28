@@ -76,7 +76,7 @@ In Lesson 4, we will learn about how to store data in files, and read back and e
 
 1. Make a yourname.txt that has your name in it, then read in that file and print to the screen.
 2. Write down every number from 1 to 100 to a file number.txt
-3. Write a program that read in random.txt and then add a random number to that random.txt file, without losing existing data.
+3. Write a program that read in number.txt and then add all the numbers up, and write the result into sum.txt
 4. Build a shopping experience! You can specify the list of items in a file (item name with price) , then read in the file data, then provide a shopping experience to the users. 
 
 ### Bonus Exercise (optional)
