@@ -15,6 +15,10 @@ Let's learn Python together
 - In 6 months, you will be to write automated tasks on your computer to do your "work" for you!
 - In a year, you will be able to write simple AI program that uses your webcam to recognize your pet vs you!
 
+## Big Project 1
+Build a todo-app to keep track to things that you have to do! In life, very often that we will have things that we want or have to do, but we cannot do it at the moment, so we want to save it for later, and often enough we tend to forget! The less we forget, the more we will be seen as responsible person!
+Through the course of lessons here, we will continue to improve this big project to add more functionalities! Have fun!
+
 ## Lesson 1
 In the first Lesson, we are going to be focusing on setting up the python environment, and learn about the basic input and output.
 
@@ -77,10 +81,12 @@ In Lesson 4, we will learn about how to store data in files, and read back and e
 1. Make a yourname.txt that has your name in it, then read in that file and print to the screen.
 2. Write down every number from 1 to 100 to a file number.txt
 3. Write a program that read in number.txt and then add all the numbers up, and write the result into sum.txt
-4. Build a shopping experience! You can specify the list of items in a file (item name with price) , then read in the file data, then provide a shopping experience to the users. 
+4. Start the BIG PROJECT 1 above, with simple operation like: reading all the tasks from a file, provide option to add a task, remove a task or edit a task.
+  - Say you have a tasks.txt (eat\n, sleep\n), your todo.py will read in the file and print out all the tasks.
+  - Provide a menu and an option to remove a task.
 
 ### Bonus Exercise (optional)
-
+4. Build a shopping experience! You can specify the list of items in a file (item name with price) , then read in the file data, then provide a shopping experience to the users. 
 
 
 ## Lesson 5
