@@ -83,7 +83,13 @@ In Lesson 4, we will learn about how to store data in files, and read back and e
 3. Write a program that read in number.txt and then add all the numbers up, and write the result into sum.txt
 4. Start the BIG PROJECT 1 above, with simple operation like: reading all the tasks from a file, provide option to add a task, remove a task or edit a task.
   - Say you have a tasks.txt (eat\n, sleep\n), your todo.py will read in the file and print out all the tasks.
-  - Provide a menu and an option to remove a task.
+  - Provide a menu:
+    - Add a task
+    - Remove a task
+    - Edit a task
+    - Mark a task as competed
+    - Print completed tasks
+    - Exit
 
 ### Bonus Exercise (optional)
 4. Build a shopping experience! You can specify the list of items in a file (item name with price) , then read in the file data, then provide a shopping experience to the users. 
