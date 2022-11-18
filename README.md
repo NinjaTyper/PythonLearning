@@ -94,8 +94,17 @@ In Lesson 4, we will learn about how to store data in files, and read back and e
 ### Bonus Exercise (optional)
 4. Build a shopping experience! You can specify the list of items in a file (item name with price) , then read in the file data, then provide a shopping experience to the users. 
 
-
 ## Lesson 5
+JSON time! We will learn about Dictionary data type and how to use it together with List, then how to store them in files as JSON.
+
+Self-learn: https://www.programiz.com/python-programming/json
+
+### Required Exercise for Lesson 4
+1. Make students.json and students.py that reads in the data. Start out simple by having 2 students with just name.
+2. Add weight, and books (list) to students.json
+3. Upgrade your BIG PROJECT 1 (to-do-list app) to make use of JSON.
+
+## Lesson 6
 In Lesson 5, we will learn how to get data from the internet (social media, webpages, etc.)
 
 ### Required Exercise for Lesson 5
