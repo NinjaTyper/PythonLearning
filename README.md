@@ -19,6 +19,9 @@ Let's learn Python together
 Build a todo-app to keep track to things that you have to do! In life, very often that we will have things that we want or have to do, but we cannot do it at the moment, so we want to save it for later, and often enough we tend to forget! The less we forget, the more we will be seen as responsible person!
 Through the course of lessons here, we will continue to improve this big project to add more functionalities! Have fun!
 
+## Big Project 2
+Create your trivia game where you can keep all the data in a JSON file. 
+
 ## Lesson 1
 In the first Lesson, we are going to be focusing on setting up the python environment, and learn about the basic input and output.
 
@@ -103,6 +106,10 @@ Self-learn: https://www.programiz.com/python-programming/json
 1. Make students.json and students.py that reads in the data. Start out simple by having 2 students with just name.
 2. Add weight, and books (list) to students.json
 3. Upgrade your BIG PROJECT 1 (to-do-list app) to make use of JSON.
+4. Add clear screen functionality to improve your app's experience
+   os.system('cls') (remember to import os)
+   
+5. We will start on big project 2. Create your own trivia game!
 
 ## Lesson 6
 In Lesson 5, we will learn how to get data from the internet (social media, webpages, etc.)
