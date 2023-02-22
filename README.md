@@ -112,8 +112,16 @@ Self-learn: https://www.programiz.com/python-programming/json
 5. We will start on big project 2. Create your own trivia game!
 
 ## Lesson 6
-In Lesson 5, we will learn how to get data from the internet (social media, webpages, etc.)
+We will learn small things that can make your program better and more fun!
 
-### Required Exercise for Lesson 5
+1. Add sound
+2. Clear screen
+3. Make a bot to play a turn-base game. The NumberGame mini tournament
+
+
+## Lesson 7
+In Lesson 7, we will learn how to get data from the internet (social media, webpages, etc.)
+
+### Required Exercise for Lesson 7
 
 ### Bonus Exercise (optional)
