@@ -10,7 +10,7 @@
   - After the game, then person B will take turn to pick the numbers and person A will choose whether to go first ... and so on ...
 
 # Strategy 
-- Different machines will have different strength and weakness, so make sure you think hard to pick the numbers to your advantage.
+- Different machines will have different strength and weakness, so make sure you observe the opponent's machine and think hard to pick the numbers to your advantage.
 
 # Round 1
 
