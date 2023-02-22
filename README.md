@@ -116,7 +116,8 @@ We will learn small things that can make your program better and more fun!
 
 1. Add sound
 2. Clear screen
-3. Make a bot to play a turn-base game. The [Number Game Mini Tournament 1](/NumberGame_miniTournament.md)
+3. Make a turn-base Number Game. 
+  - [Number Game Mini Tournament 1](/NumberGame_miniTournament.md)
 
 
 ## Lesson 7
