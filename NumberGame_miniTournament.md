@@ -3,11 +3,11 @@
 - Each match will be scored as a set of tennis: Who get to 6 wins first will win.
 - On the first game, rock-paper-sissor to see who play first, then alternate from there.
 - Each game will go like this:
-  - Person A gets to pick 3 numbers on A machine.
-  - Person B copies the 3 numbers to B machine, and Person B will choose to first or second for machine B.
+  - Person A gets to pick 3 numbers on machine A.
+  - Person B copies the 3 numbers to machine B, and Person B will choose to first or second for machine B.
   - Then person A set the machine A to go second or first accordingly.
   - From there, A and B will copy each other moves to see which machine win!
-  - Then Person B will get to pick the numbers on the next game, with Person A make the first move... and so on ...
+  - After the game, then person B will take turn to pick the numbers and person A will choose whether to go first ... and so on ...
 
 # Strategy 
 - Different machine will have different strength and weakness, so make sure to think hard to pick the numbers to your advantage.
