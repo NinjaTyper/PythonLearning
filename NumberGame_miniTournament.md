@@ -1,6 +1,6 @@
 # The format
 - Everyone will play everyone! You are responsible for schedule your match time with your friend.
-- Each match will be scored as a set of tennis: Who get to 6 wins first will win.
+- Each match will be scored as a set of tennis: Who get to 4 wins first will win.
 - On the first game, rock-paper-sissor to see who play first, then alternate from there.
 - Each game will go like this:
   - Person A gets to pick 3 numbers on machine A.
@@ -17,7 +17,7 @@
 | Name         | Fabio     | Lydia      | Peter | Rei | Roy  |
 |--------------|-----------|------------|-------|-----|------|
 | Fabio        |     X     |            |       |     |      |
-| Lydia        |           |      X     |       |     |      |
-| Peter        |           |            |   X   |     |      |
+| Lydia        |           |      X     |  2-4  |     |      |
+| Peter        |           |     4-2    |   X   |     |      |
 | Rei          |           |            |       |  X  |      |
 | Roy          |           |            |       |     |   X  |
