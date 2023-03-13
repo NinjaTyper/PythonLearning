@@ -10,6 +10,8 @@ Let's learn Python together
   - Other: https://www.py4e.com/lessons
 - Use what you learnt to build something cool! then share with everyone.
 - Help other friends to learn!
+- Meeting: https://tiny.cc/pythonredmond
+- Recording: https://tiny.cc/pythonrecording
 
 ## Goals
 - In 6 months, you will be to write automated tasks on your computer to do your "work" for you!
