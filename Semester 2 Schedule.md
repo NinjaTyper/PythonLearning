@@ -3,8 +3,11 @@ This is the semester two schedule
 All of us have been following Peter's Dad's curriculum, but now it is our turn to learn, and teach. Starting now, we are going to be having people do their own prepared presentations where they will be presenting and teaching the rest of us, a different person each week.
 Since we have about 4-5 people in our group, we will be able to have about 3-6 weeks of planning for each person. Peter's dad will be assigning the topics for each person to each. The schedule is the following:
 
-- Topic 1: Class/Object simple first topic
-- Topic 2: Automation
+- Topic 1: Class/Object simple first topic 
+  - Show your own demo program. Or you can upgrade your trivia game to have Trivia object and Question object.
+  - Roy on Thursday 4/20
+- Topic 2: Automation using pywinauto
+  - https://github.com/pywinauto/pywinauto
 - Topic 3: Web page part 1
 - Topic 4: BattleSnake
 - Topic 5: Markdown and GitHub
