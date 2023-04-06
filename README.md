@@ -122,9 +122,4 @@ We will learn small things that can make your program better and more fun!
   - [Number Game Mini Tournament 1](/NumberGame_miniTournament.md)
 
 
-## Lesson 7
-In Lesson 7, we will learn how to get data from the internet (social media, webpages, etc.)
-
-### Required Exercise for Lesson 7
-
-### Bonus Exercise (optional)
+[Semester 2](/semester2.md)
