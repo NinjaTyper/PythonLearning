@@ -41,3 +41,8 @@ If you have a better date and time, please share with the group, the point is to
 | May 6th 8:30am  |      |        |
 | May 10th 7:30pm  |      |        |
 | May 12th 8:30am  |      |        |
+
+Step 1: pick a topic of your interest. You could pair up as well if you can plan it out with your friend. The limit is the sky!
+Step 2: pick a date that you think is appropriate for you to prepare for the topic.
+Step 3: Check the calendar to make sure to attend the sessions to watch other presentation.
+Step 4: Make sure to get ready for your presentation!
