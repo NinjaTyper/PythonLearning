@@ -1,8 +1,10 @@
-This is the semester two schedule
+For Semester 2, we are going Presentation Style!
 
-All of us have been following Peter's Dad's curriculum, but now it is our turn to learn, and teach. Starting now, we are going to be having people do their own prepared presentations where they will be presenting and teaching the rest of us, a different person each week.
-Since we have about 4-5 people in our group, we will be able to have about 3-6 weeks of planning for each person. Peter's dad will be assigning the topics for each person to each. The schedule is the following:
+Each individual will be prompted to select a subject of interest from a list of suggestions or propose a new one. Subsequently, you'll schedule a date for your talk. The presentation will be recorded for friends who are unable to join. Following your presentation, you'll choose the next subject (or a continuation of your previous one) and set a date for it. With 5-6 participants, this allows for a comfortable rotation of one presentation per month per person.
 
+The presentations are intended to be casual, emphasizing the learning aspect and sharing your newfound knowledge with friends, essentially "teaching" them. You can utilize PowerPoint or Google Slides (free) for your presentation. Keep in mind that I will be present to assist, and the primary goal is to enjoy sharing information with your friends. While attendance at every presentation isn't mandatory, you're encouraged to participate whenever possible. To stay updated with the group's knowledge base, it is essential to watch the recorded presentations.
+
+Suggested topics:
 - Topic 1: Class/Object simple first topic 
   - Show your own demo program. Or you can upgrade your trivia game to have Trivia object and Question object.
   - Roy on Thursday 4/20
@@ -26,10 +28,9 @@ Since we have about 4-5 people in our group, we will be able to have about 3-6 w
   - https://www.youtube.com/watch?v=AY9MnQ4x3zk
   - https://www.pygame.org/docs/
 
-Make a slideshow, and show as much information that you could find. Use google slides because it is free, and everyone can use it. Then use any recording software (Clipchamp is easy to learn), and record a video, then send it to our skype group so that everyone can watch it and learn, also so people who are not at the lesson can watch it. On the day of the session that you are going to be at, you will be presenting live, and do not need to show your video, you still need to turn in your video so the people in the other group can see it. The duedate of each presentation will be on the Wednesday of the week. https://www.google.com/slides/about/
 
 Schedule:
-Contact Phu to sign up for schedule, the slots are first-come-first-serve
+If you have a better date and time, please share with the group, the point is to find a time that most people can join.
 | Time               | Name     | Topic |
 |--------------|-----------|------------|
 | April 20th 7:30pm  |      |        |
