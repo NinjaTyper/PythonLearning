@@ -6,8 +6,7 @@ The presentations are intended to be casual, emphasizing the learning aspect and
 
 Suggested topics:
 - Topic 1: Class/Object simple first topic 
-  - Show your own demo program. Or you can upgrade your trivia game to have Trivia object and Question object.
-  - Roy on Thursday 4/20
+  - Show your own demo program. Or you can upgrade your trivia game to have Trivia object and Question object
 - Topic 2: Automation using pywinauto
   - [https://github.com/pywinauto/pywinauto](https://pywinauto.readthedocs.io/en/latest/)
   - pywinauto video: https://www.youtube.com/watch?v=R4E4IOIC63s
@@ -35,7 +34,7 @@ If you have a better date and time, please share with the group, the point is to
 |--------------|-----------|------------|
 | April 20th 7:30pm  | Peter|  5     |
 | April 22th 8:30am  |      |        |
-| April 27th 7:30pm  |      |        |
+| April 27th 7:30pm  | Roy  |  1     |
 | April 29th 8:30am  |      |        |
 | May 4th 7:30pm  |      |        |
 | May 6th 8:30am  |      |        |
