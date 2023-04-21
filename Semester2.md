@@ -32,7 +32,7 @@ Schedule:
 If you have a better date and time, please share with the group, the point is to find a time that most people can join.
 | Time               | Name     | Topic |
 |--------------|-----------|------------|
-| April 20th 7:30pm  | Peter|  5     |
+| April 20th 7:30pm  | Peter|  #5 https://www.youtube.com/watch?v=C8IJpsrOvsI     |
 | April 22th 8:30am  | Peter|  5     |
 | April 27th 7:30pm  | Roy  |  1     |
 | April 29th 8:30am  |      |        |
