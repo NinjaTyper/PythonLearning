@@ -36,7 +36,7 @@ If you have a better date and time, please share with the group, the point is to
 | April 22th 8:30am  | Peter|  5     |
 | April 27th 7:30pm  | Roy  |  1     |
 | April 29th 8:30am  |      |        |
-| May 4th 7:30pm  |  Lydia |  6      |
+| May 4th 7:30pm  | Peter&Lydia |  6      |
 | May 6th 8:30am  |      |        |
 | May 10th 7:30pm  |      |        |
 | May 12th 8:30am  |      |        |
