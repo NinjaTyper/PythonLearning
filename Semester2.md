@@ -37,9 +37,10 @@ If you have a better date and time, please share with the group, the point is to
 | April 27th 7:30pm  | Roy  |  1     |
 | April 29th 8:30am  |      |        |
 | May 4th 7:30pm  | Peter&Lydia |  6      |
-| May 6th 8:30am  |      |        |
-| May 10th 7:30pm  |      |        |
-| May 12th 8:30am  |      |        |
+| May 17th 7:30pm  | Peter |Battlesnake|
+|   |      |        |
+|   |      |        |
+
 
 Step 1: pick a topic of your interest. You could pair up as well if you can plan it out with your friend. The limit is the sky!
 
